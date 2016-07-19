@@ -1,5 +1,0 @@
-﻿test
-bug 11
-master bug 12
-new add
-release 4
